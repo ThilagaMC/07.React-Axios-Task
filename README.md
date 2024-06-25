@@ -2,7 +2,7 @@
 
 ## Overview
 
-This React application allows users to perform CRUD (Create, Read, Update, Delete) operations on user data, utilizing Axios for API requests. The user data is fetched from a mock API: `https://jsonplaceholder.typicode.com/users`.
+This React application allows users to perform CRUD (Create, Read, Update, Delete) operations on user data, utilizing Axios for API requests. The user data is fetched from a mock API: `https://661c07d0e7b95ad7fa698cac.mockapi.io/api/v1/todo`.
 
 ## Features
 
@@ -18,12 +18,10 @@ This React application allows users to perform CRUD (Create, Read, Update, Delet
 
 Make sure you have the following installed:
 
-- Node.js (https://nodejs.org/)
-- npm or yarn (npm is bundled with Node.js, but yarn can be used as an alternative)
+- npm (npm is bundled with Node.js, but yarn can be used as an alternative)
 
 ### Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/react-crud-axios.git
-   cd react-crud-axios
+   [git clone https://github.com/your-username/react-crud-axios.git](https://github.com/ThilagaMC/07.React-Axios-Task/edit/main/README.md)
+   cd react-crud-Axios
